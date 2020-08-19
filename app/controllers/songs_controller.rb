@@ -10,4 +10,7 @@ class SongsController < ApplicationController
 
   def show
   end
+  
+  def update
+  end
 end
