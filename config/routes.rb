@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'genres/index'
+
+  get 'genres/update'
+
   get 'artists/index'
 
   get 'artists/update'
